@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm AnjaleeIT</h1>
+<h1 align="center">Hi , I'm Anjalee</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaleeit&label=Profile%20views&color=0e75b6&style=flat" alt="anjaleeit" /> </p>
 
-- 🌱 I’m currently learning **Frameworks,courses**
+-  I’m currently learning **Frameworks,courses**
 
-- 📫 How to reach me **anjaleejayaweera5@gmail.com**
+-  How to reach me **anjaleejayaweera5@gmail.com**
 
-- ⚡ Fun fact **call me as Lee**
+-  Fun fact **call me as Lee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
