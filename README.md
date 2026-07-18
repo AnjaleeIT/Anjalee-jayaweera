@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Anjalee</h1>
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate Web developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjaleeit&label=Profile%20views&color=0e75b6&style=flat" alt="anjaleeit" /> </p>
 
