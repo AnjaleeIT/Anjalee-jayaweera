@@ -31,24 +31,11 @@
 
 ### 📌 About Me
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 - 🎓 **Education:** Information Technology Undergraduate at **HNDIT**
 - 💻 **Specialization:** Full-Stack Web Development
 - ⚡ **Core Focus:** Building high-performance web applications using **React.js & Node.js**
 - 📱 **Mobile Dev:** Exploring cross-platform development with **React Native**
 - 🎯 **Goal:** Seeking Full-Stack / Junior Web Developer Opportunities
-
-    </td>
-    <td width="40%" align="center" valign="middle">
-
-![Developer Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeIT&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0c20&text_color=c9d1d9)
-
-    </td>
-  </tr>
-</table>
 
 <br/>
 
@@ -88,5 +75,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnjaleeIT&show_icons=true&theme=synthwave&hide_border=false&border_color=d946ef&bg_color=0f0c20&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeIT&theme=synthwave&bg_color=0f0c20&hide_border=false&border_color=d946ef&line=d946ef&point=ffffff" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeIT&layout=compact&theme=synthwave&hide_border=false&border_color=d946ef&bg_color=0f0c20&title_color=d946ef&text_color=c9d1d9" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeIT&theme=synthwave&bg_color=0f0c20&hide_border=false&border_color=d946ef&line=d946ef&point=ffffff" width="100%" />
 </div>
