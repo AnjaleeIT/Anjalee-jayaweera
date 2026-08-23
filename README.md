@@ -1,38 +1,27 @@
-<div align="center">
+# Hi, I'm Anjalee Jayaweera 👋
 
-  <!-- Glassmorphism Main Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=glass&color=0:0d1117,50:161b22,100:21262d&height=200&text=ANJALEE%20JAYAWEERA&fontSize=42&fontAlignY=40&animation=twinkle&stroke=00f2fe&strokeWidth=1&desc=Full--Stack%20Developer%20%7C%20HNDIT%20Undergraduate&descAlignY=65&descAlign=50" width="100%" />
+An Information Technology Undergraduate (HNDIT) and Full-Stack Developer passionate about building web applications.
 
-  <br/><br/>
+---
 
-  <!-- Translucent Glass Contact Pill Badges -->
-  <a href="mailto:anjaleejayaweera5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-161b22?style=for-the-badge&logo=gmail&logoColor=FF4B4B" />
-  </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00F2FE" />
-  </a>
-  <a href="https://github.com/AnjaleeIT">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=4FACFE" />
-  </a>
+### 🎓 About Me
 
-</div>
+- 🏫 **Education:** Studying Higher National Diploma in Information Technology (HNDIT)
+- 💻 **Tech Stack:** Specialized in React.js, Node.js, Express.js, and MySQL
+- 🌐 **Interests:** Full-Stack Web Development and Mobile App Development
+- ✉️ **Contact:** anjaleejayaweera5@gmail.com
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Building+modern+web+applications...;Specialized+in+React.js+%26+Node.js;Crafting+clean+code+%26+interactive+UIs;" alt="Typing SVG" />
-</div>
+### 🛠️ Languages & Tools
 
-<br/>
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+- **Backend & Database:** Node.js, Express.js, MySQL, PHP
+- **Tools:** Git, GitHub, VS Code, WordPress
 
-### 💎 Developer Profile
+---
 
-```typescript
-type Developer = {
-  name: "Anjalee Jayaweera";
-  education: "HNDIT Undergraduate";
-  primaryStack: ["React.js", "Node.js", "Express", "MySQL"];
-  interests: ["Full-Stack Architecture", "Mobile App Development"];
-  status: "Open for Full-Stack / Junior Web Dev Roles";
-};
+### 📫 Connect With Me
+
+- **Email:** [anjaleejayaweera5@gmail.com](mailto:anjaleejayaweera5@gmail.com)
+- **LinkedIn:** [Anjalee Jayaweera](https://linkedin.com)
