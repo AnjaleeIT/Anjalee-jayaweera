@@ -29,14 +29,64 @@
 
 ---
 
-### 🚀 About Me
+### 📌 About Me
 
-```typescript
-const developer = {
-  name: "Anjalee Jayaweera",
-  role: "Full-Stack Web Developer",
-  education: "HNDIT Undergraduate",
-  coreStack: ["React.js", "Node.js", "Express.js", "MySQL", "PHP"],
-  passions: ["Clean Code Architecture", "Responsive Web Design", "Modern Tech Trends"],
-  status: "Open for Full-Stack Internships & Junior Roles 🎯"
-};
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
+- 🎓 **Education:** Information Technology Undergraduate at **HNDIT**
+- 💻 **Specialization:** Full-Stack Web Development
+- ⚡ **Core Focus:** Building high-performance web applications using **React.js & Node.js**
+- 📱 **Mobile Dev:** Exploring cross-platform development with **React Native**
+- 🎯 **Goal:** Seeking Full-Stack / Junior Web Developer Opportunities
+
+    </td>
+    <td width="40%" align="center" valign="middle">
+
+![Developer Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeIT&layout=compact&theme=synthwave&hide_border=true&bg_color=0f0c20&text_color=c9d1d9)
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🛠️ Tech Stack & Skillset
+
+#### 🎨 **Frontend Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### ⚙️ **Backend & Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+#### 🧰 **Tools & Environments**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+### 📊 GitHub Activity & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaleeIT&show_icons=true&theme=synthwave&hide_border=false&border_color=d946ef&bg_color=0f0c20&title_color=d946ef&icon_color=d946ef&text_color=c9d1d9" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjaleeIT&theme=synthwave&bg_color=0f0c20&hide_border=false&border_color=d946ef&line=d946ef&point=ffffff" width="49%" />
+</div>
