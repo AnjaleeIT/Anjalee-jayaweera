@@ -33,7 +33,7 @@
 
 - 🎓 **Education:** Information Technology Undergraduate at **HNDIT**
 - 💻 **Specialization:** Full-Stack Web Development
-- ⚡ **Core Focus:** Building high-performance web applications using **React.js & Node.js**
+- ⚡ **Core Focus:** Building high-performance web applications using **React.js , Vue js & Node.js**
 - 📱 **Mobile Dev:** Exploring cross-platform development with **React Native**
 - 🎯 **Goal:** Seeking Full-Stack / Junior Web Developer Opportunities/ Assosiate Software Engineer
 
