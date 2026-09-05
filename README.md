@@ -32,11 +32,87 @@
 
 ---
 
-### 🔹 About Me
+### ⚡ About Me
 
-```yaml
-Education: Higher National Diploma in Information Technology (HNDIT) @ SLIATE
-Experience: Ex-Associate Full-Stack Developer & IT Trainee @ Nenasala ICT Center
-Current Focus: Building scalable web platforms & modern mobile applications
-Core Stack: React.js, Node.js, Express.js, MySQL, Supabase & React Native
-Goal: Seeking Associate Software Engineer / Junior Full-Stack Developer Roles
+> *"Turning complex logic into sleek, high-performance web & mobile experiences."*
+
+- 🎓 **Education:** Final-year IT Undergraduate pursuing **HNDIT** at **SLIATE**
+- 💼 **Industry Experience:** Former **Associate Full-Stack Developer & IT Trainee** at **Nenasala ICT Center**
+- 🛠️ **What I Do:** Build scalable web applications with **React.js & Node.js**, and craft mobile apps using **React Native**
+- 🎨 **Design Philosophy:** Big believer in **clean UI/UX, responsive design**, and maintainable code architectures
+- 🎯 **Current Goal:** Looking for **Associate Software Engineer / Junior Full-Stack Developer** opportunities to contribute to real-world projects!
+
+<br/>
+
+<div align="center">
+
+| 🔭 **Working On** | 📚 **Learning & Exploring** | ⚡ **Fun Fact** |
+| :--- | :--- | :--- |
+| Workspace & Cafe Reservation System | Advanced React Native & Cloud Workflows | I turn coffee into clean, reusable components! ☕ |
+
+</div>
+
+<br/>
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🎨 Frontend & Mobile</h4>
+      <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/HTML5%2FCSS3-E34F26?style=flat-square&logo=html5&logoColor=white" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>⚙️ Backend & DB</h4>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat-square" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧰 Tools & Concepts</h4>
+      <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+* ☕ **Cafe & Coworking Space Management System** *(React, Supabase, Tailwind CSS)*
+  * Digital workspace reservations and cafe ordering system with real-time slot availability.
+* 🛍️ **LeeStyle Store - Mobile App** *(React Native, Expo, Node.js)*
+  * E-commerce mobile app featuring clean UI/UX components and interactive cart flow.
+* 💳 **POS System** *(React.js, Express.js, MySQL)*
+  * Automated sales processing, billing logic, and inventory control system.
+* 🏛️ **Nenasala Web-Based POS System** *(PHP, MySQL, JavaScript)*
+  * Transactional workflows and backend relational query optimization.
+
+---
+
+### 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnjaleeIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeIT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaleeIT&theme=tokyonight&hide_border=true" width="97%" />
+</div>
