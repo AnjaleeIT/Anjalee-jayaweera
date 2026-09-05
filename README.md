@@ -36,7 +36,7 @@
 
 > *"Turning complex logic into sleek, high-performance web & mobile experiences."*
 
-- 🎓 **Education:** Final-year IT Undergraduate pursuing **HNDIT** at **SLIATE**
+- 🎓 **Education:**  IT Undergraduate pursuing **HNDIT** at **SLIATE**
 - 💼 **Industry Experience:** Former **Associate Full-Stack Developer & IT Trainee** at **Nenasala ICT Center**
 - 🛠️ **What I Do:** Build scalable web applications with **React.js & Node.js**, and craft mobile apps using **React Native**
 - 🎨 **Design Philosophy:** Big believer in **clean UI/UX, responsive design**, and maintainable code architectures
@@ -48,7 +48,7 @@
 
 | 🔭 **Working On** | 📚 **Learning & Exploring** | ⚡ **Fun Fact** |
 | :--- | :--- | :--- |
-| Workspace & Cafe Reservation System | Advanced React Native & Cloud Workflows | I turn coffee into clean, reusable components! ☕ |
+| Workspace & Cafe Reservation System | I turn coffee into clean, reusable components! ☕ |
 
 </div>
 
@@ -91,28 +91,5 @@
 
 ---
 
-### 🚀 Featured Projects
 
-* ☕ **Cafe & Coworking Space Management System** *(React, Supabase, Tailwind CSS)*
-  * Digital workspace reservations and cafe ordering system with real-time slot availability.
-* 🛍️ **LeeStyle Store - Mobile App** *(React Native, Expo, Node.js)*
-  * E-commerce mobile app featuring clean UI/UX components and interactive cart flow.
-* 💳 **POS System** *(React.js, Express.js, MySQL)*
-  * Automated sales processing, billing logic, and inventory control system.
-* 🏛️ **Nenasala Web-Based POS System** *(PHP, MySQL, JavaScript)*
-  * Transactional workflows and backend relational query optimization.
 
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnjaleeIT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaleeIT&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnjaleeIT&theme=tokyonight&hide_border=true" width="97%" />
-</div>
