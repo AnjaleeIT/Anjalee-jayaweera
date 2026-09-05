@@ -36,7 +36,7 @@
 
 > *"Turning complex logic into sleek, high-performance web & mobile experiences."*
 
--  **Education:** Final-year IT Undergraduate pursuing **HNDIT** at **SLIATE**
+-  **Education:**  IT Undergraduate pursuing **HNDIT** at **SLIATE**
 -  **Industry Experience:** Former **Associate Full-Stack Developer & IT Trainee** at **Nenasala ICT Center**
 -  **What I Do:** Build scalable web applications with **React.js & Node.js**, and craft mobile apps using **React Native**
 -  **Design Philosophy:** Big believer in **clean UI/UX, responsive design**, and maintainable code architectures
@@ -91,7 +91,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 *  **Cafe & Coworking Space Management System** *(React, Supabase, Tailwind CSS)*
   * Digital workspace reservations and cafe ordering system with real-time slot availability.
